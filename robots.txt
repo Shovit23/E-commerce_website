@@ -1,0 +1,21 @@
+
+User-agent: admin-login
+Disallow: /
+
+User-agent: admin-posts
+Disallow: /
+ 
+User-agent: admin-edit
+Disallow: /
+ 
+User-agent: admin-index
+Disallow: /
+ 
+User-agent: admin-pages
+Disallow: /
+ 
+User-agent: admin-users
+Disallow: /
+
+
+
